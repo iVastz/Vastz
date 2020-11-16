@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Test Site</title>
+    </head>
+    <style>
+        body {
+            background-color: rgb(255,255,255);
+            font-family: "Roboto", sans-serif;
+            color: rgb(46, 46, 46);
+       }
+        
+        .Title {
+        text-shadow: 0px 0px 8px rgba(25,25,25);
+        }
+        
+        
+        .LightFont {
+        
+        font-weight: lighter;
+        
+        }
+            
+        #TopOfPage {
+		
+        background-image: url("https://images.unsplash.com/photo-1554254648-2d58a1bc3fd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+        
+        }
+        
+    </style>
+    <body>
+        
+        <h1 id="TopOfPage" class="Title"><span class="LightFont">It's</span> Vast</h1>
+        
+    </body>
+</html>
